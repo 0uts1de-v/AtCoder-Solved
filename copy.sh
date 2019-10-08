@@ -1,1 +1,1 @@
-cat lib.cpp | pbc
+cat lib.cpp | termux-clipboard-set
